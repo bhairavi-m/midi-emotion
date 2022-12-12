@@ -42,6 +42,8 @@ To generate MIDI using pretrained models:
 - Download model(s) from the following link:
 https://drive.google.com/drive/folders/1qFgomRDXmx8ewRz_E0X2T10CY-w_kUFt?usp=sharing
 
+## [Bhairavi] Before train run preprocess_pianroll.py and change paths in preprocess accordingly
+
 - Extract into the folder ```output```
 
 - Go to ```src``` folder and run ```generate.py``` with appropriate arguments. e.g:
